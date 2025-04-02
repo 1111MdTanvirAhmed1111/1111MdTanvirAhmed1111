@@ -40,7 +40,7 @@ I’m a passionate developer specializing in the **MERN stack** (MongoDB, Expres
 ## 📬 Let's Connect!
 - **Email**: [Gazi Tanvir Ahmed (Click) ](mailto:tosibahabiba@gmail.com) ✉️  
 
-- **Portfolio**: [tanvir.xyz](https://tanvir.pothoczuto.com) 🌍  
+- **Portfolio**: [tanvir.xyz](https://tanvir.pothoczuto.xyz) 🌍  
 
 Feel free to explore my repositories below and reach out if you’d like to collaborate on something exciting! 💡
 
